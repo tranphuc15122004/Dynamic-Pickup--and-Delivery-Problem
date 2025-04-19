@@ -259,144 +259,6 @@ def dispatch_new_orders(vehicleid_to_plan: Dict[str , list[Node]] ,  id_to_facto
                 vehicleid_to_plan[bestInsertVehicleID] = route_node_list
 
 
-def variable_neighbourhood_search(begintime: float , indivisual: Chromosome):
-    global used_time
-    global n1, n2, n3, n4, n5
-    endtime = time.time()
-    used_time = endtime - begintime
-
-    while True:
-        if inter_couple_exchange(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map):
-            n1 += 1
-            continue
-        endtime = time.time()
-        used_time = endtime - begintime
-        if used_time > 9 * 60:
-            print("TimeOut!!")
-            break
-        
-        if block_exchange(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map):
-            n2 += 1
-            continue
-        endtime = time.time()
-        used_time = endtime - begintime
-        if used_time > 9 * 60:
-            print("TimeOut!!")
-            break
-        
-        if block_relocate(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map):
-            n3 += 1
-            continue
-        
-        endtime = time.time()
-        used_time = endtime - begintime
-        if used_time > 9 * 60:
-            print("TimeOut!!")
-            break
-
-        if multi_pd_group_relocate(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map):
-            n4 += 1
-        else:
-            if (not improve_ci_path_by_2_opt(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map , begintime)):
-                break
-            n5 +=1
-
-        endtime = time.time()
-        used_time = endtime - begintime
-        if used_time > 9 * 60:
-            print("TimeOut!!", file=sys.stderr)
-            break
-
-    print(f"PDPairExchange:{n1}; BlockExchange:{n2}; BlockRelocate:{n3}; mPDG:{n4}; 2opt:{n5}; usedTime:{used_time:.2f} seconds; cost:{total_cost(indivisual.id_to_vehicle , indivisual.route_map , indivisual.solution ):.2f}"  )
-
-
-""" def variable_neighbourhood_search(begintime: float, indivisual: Chromosome , max_iteration : int = math.inf, max_no_improve: int = 5):
-    global used_time
-    global n1, n2, n3, n4, n5
-    endtime = time.time()
-    used_time = endtime - begintime
-
-    best_solution = copy.deepcopy(indivisual)
-    best_cost = total_cost(indivisual.id_to_vehicle, indivisual.route_map, indivisual.solution)
-    
-    no_improve_count = 0
-    iteration = 0
-    while True:
-        iteration += 1     
-        
-        improved = False
-
-        # Danh sách các phép Local Search (LS) thử nghiệm
-        local_search_methods = [
-            (inter_couple_exchange, "PDPairExchange", n1),
-            (block_exchange, "BlockExchange", n2),
-            (block_relocate, "BlockRelocate", n3),
-            (multi_pd_group_relocate, "mPDG", n4)
-        ]
-
-        for ls_function, name, count in local_search_methods:
-            if ls_function(indivisual.solution, indivisual.id_to_vehicle, indivisual.route_map):
-                count += 1
-                new_cost = total_cost(indivisual.id_to_vehicle, indivisual.route_map, indivisual.solution)
-                if (best_cost - new_cost) > 1e-6:  # Giảm giá trị tolerance để dễ cải thiện hơn
-                    best_cost = new_cost
-                    best_solution = copy.deepcopy(indivisual)
-                    no_improve_count = 0
-                    improved = True
-
-            # Kiểm tra giới hạn thời gian sau mỗi lần cải thiện
-            endtime = time.time()
-            used_time = endtime - begintime
-            if used_time > 9 * 60:
-                print("TimeOut!!", file=sys.stderr)
-                break
-
-        # Chạy 2-opt dù có cải thiện trước đó hay không
-        if improve_ci_path_by_2_opt(indivisual.solution, indivisual.id_to_vehicle, indivisual.route_map, begintime):
-            n5 += 1
-            new_cost = total_cost(indivisual.id_to_vehicle, indivisual.route_map, indivisual.solution)
-            if (best_cost - new_cost) > 1e-6:
-                best_cost = new_cost
-                best_solution = copy.deepcopy(indivisual)
-                no_improve_count = 0
-                improved = True
-
-        # Kiểm tra giới hạn thời gian
-        endtime = time.time()
-        used_time = endtime - begintime
-        if used_time > 9 * 60:
-            print("TimeOut!!", file=sys.stderr)
-            break
-        
-        # Nếu không có cải thiện, tăng biến đếm
-        if not improved:
-            no_improve_count += 1
-        
-        # Kiểm tra điều kiện dừng
-        if iteration >= max_iteration:
-            break 
-        
-        # Logging tiến trình mỗi 5 vòng lặp
-        if iteration % 5 == 0:
-            print(f"Iteration {iteration}: Best cost = {best_cost:.2f}")
-        
-        # Nếu không cải thiện sau `max_no_improve` vòng lặp thì dừng
-        if no_improve_count >= max_no_improve:
-            print("Stopping early due to lack of improvement.")
-            break
-    
-    # Cập nhật lại lời giải tốt nhất
-    indivisual.solution = best_solution.solution
-    indivisual.id_to_vehicle = best_solution.id_to_vehicle
-    indivisual.route_map = best_solution.route_map
-
-    print(
-        f"PDPairExchange:{n1}; BlockExchange:{n2}; BlockRelocate:{n3}; mPDG:{n4}; 2opt:{n5}; usedTime:{used_time:.2f} seconds; cost:{best_cost:.2f}"  
-    )
- """
-
-
-
 def update_solution_json (id_to_ongoing_items: Dict[str , OrderItem] , id_to_unlocated_items: Dict[str , OrderItem] , id_to_vehicle: Dict[str , Vehicle] , vehicleid_to_plan: Dict[str , list[Node]] , vehicleid_to_destination : Dict[str , Node] , route_map: Dict[tuple , tuple]):
     global  input_directory ,delta_t , used_time
     order_items_json_path = os.path.join(input_directory, "solution.json")
@@ -621,6 +483,7 @@ def main():
     initial_chromosome : Chromosome = Chromosome(vehicleid_to_plan , route_map , id_to_vehicle)
     
     #GA
+    print()
     best_chromosome =  CCEA(initial_chromosome)
     if best_chromosome is None or best_chromosome.fitness > initial_chromosome.fitness:
         best_chromosome = initial_chromosome
@@ -632,7 +495,6 @@ def main():
     print(f'After GA, the cost of solution decrease from {initial_chromosome.fitness} to {best_chromosome.fitness}')
     
     """" Xử lý lời giải sau tối ưu"""
-    """Không cần chỉnh sửa nhiều"""
     used_time = time.time() - begin_time
     update_solution_json(id_to_ongoing_items , id_to_unlocated_items , id_to_vehicle , best_chromosome.solution , vehicleid_to_destination , route_map)
     
@@ -646,9 +508,6 @@ def main():
     
     print(f"Route: {best_chromosome.solution}", file = sys.stderr)
     write_route_json_to_file(best_chromosome.solution  , id_to_vehicle , input_directory) 
-    
-    
-    #copy_solution_file(input_directory)
 
 if __name__ == '__main__':
     main()

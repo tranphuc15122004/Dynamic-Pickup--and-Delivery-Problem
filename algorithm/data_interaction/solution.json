@@ -1,15 +1,18 @@
 {
-    "no.": "150",
-    "deltaT": "1510-1520",
-    "complete_order_items": [],
-    "onvehicle_order_items": "2354040050-1",
+    "no.": "160",
+    "deltaT": "1610-1620",
+    "complete_order_items": [
+        "2339300099-1",
+        "2247120095-1"
+    ],
+    "onvehicle_order_items": "2304290097-1 2304290097-2 2304290097-3 2253360096-1 2353310100-1 2353310100-2 2353310100-3 2353310100-4 2353310100-5 2353310100-6",
     "ongoing_order_items": "",
     "unongoing_order_items": "",
     "unallocated_order_items": "",
     "new_order_items": [],
     "used_time": 0.0,
-    "finalCost": 6.779999999999999,
-    "route_before": "V_1:[] V_2:[p1_2354040050-1 d1_2354040050-1] V_3:[] V_4:[] V_5:[]",
-    "route_after": "V_1:[] V_2:[d1_2354040050-1] V_3:[] V_4:[] V_5:[]",
+    "finalCost": 11573.446666666667,
+    "route_before": "V_1:[d3_2304290097-3] V_2:[d1_2247120095-1 p6_2353310100-1 d6_2353310100-6] V_3:[d1_2339300099-1] V_4:[d1_2253360096-1] V_5:[]",
+    "route_after": "V_1:[d3_2304290097-3] V_2:[d6_2353310100-6] V_3:[] V_4:[d1_2253360096-1] V_5:[]",
     "Local_search": "PDPairExchange:0; BlockExchange:0; BlockRelocate:0; mPDG:0; 2opt:0"
 }

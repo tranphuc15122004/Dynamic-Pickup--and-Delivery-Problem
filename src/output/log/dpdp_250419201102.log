@@ -1,0 +1,2044 @@
+2025-04-19 20:11:02,063 [main.py         | 28] INFO: Start to run instance_9
+2025-04-19 20:11:02,063 [simulate_api.py | 60] INFO: Start time of the simulator: 2025-04-19 00:00:00, time interval:  600.00
+2025-04-19 20:11:02,070 [input_utils.py  | 28] INFO: Get 154 factories
+2025-04-19 20:11:02,858 [input_utils.py  | 32] INFO: Get 23562 routes
+2025-04-19 20:11:02,871 [input_utils.py  | 37] INFO: Get 5 vehicles
+2025-04-19 20:11:02,894 [input_utils.py  | 41] INFO: Get 100 orders
+2025-04-19 20:11:02,895 [simulate_api.py | 87] INFO: Initial position of V_1 is e2d5093fbe36431f8986ddb0e1c586be
+2025-04-19 20:11:02,895 [simulate_api.py | 87] INFO: Initial position of V_2 is 7fe14b93f0f04ee7a994ef5b2c1fdb72
+2025-04-19 20:11:02,895 [simulate_api.py | 87] INFO: Initial position of V_3 is fa366fc87a124d32926daa5bb093129f
+2025-04-19 20:11:02,895 [simulate_api.py | 87] INFO: Initial position of V_4 is e47399648fa842b2b8f80094343d8091
+2025-04-19 20:11:02,895 [simulate_api.py | 87] INFO: Initial position of V_5 is becb4f85393540b287e7329758b8d832
+2025-04-19 20:11:02,896 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:02,896 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 00:10:00, pre time: 2025-04-19 00:00:00
+2025-04-19 20:11:02,896 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 00:10:00
+2025-04-19 20:11:02,897 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 0 ongoing order items, 0 completed order items
+2025-04-19 20:11:04,939 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [6.459999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 6.459999999999999 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 2: Best Fitness = 6.459999999999999 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 3: Best Fitness = 6.459999999999999 , Best individual in the population = [6.459999999999999, 0.0]
+Generation 4: Best Fitness = 6.459999999999999 , Best individual in the population = [6.459999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009380001-1 p1_0009500002-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009380001-1 p1_0009500002-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 6.459999999999999 to 6.459999999999999
+SUCCESS
+
+2025-04-19 20:11:04,952 [simulate_environment.py | 254] INFO: 2025-04-19 00:10:00, Item 0009380001-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:04,952 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:04,953 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 00:20:00, pre time: 2025-04-19 00:10:00
+2025-04-19 20:11:04,953 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 00:20:00
+2025-04-19 20:11:04,963 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 1 ongoing order items, 0 completed order items
+2025-04-19 20:11:06,351 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 6.460000000000001 to 6.460000000000001
+SUCCESS
+
+2025-04-19 20:11:06,365 [simulate_environment.py | 254] INFO: 2025-04-19 00:20:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:06,366 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:06,366 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 00:30:00, pre time: 2025-04-19 00:20:00
+2025-04-19 20:11:06,366 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 00:30:00
+2025-04-19 20:11:06,369 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 1 ongoing order items, 0 completed order items
+2025-04-19 20:11:07,730 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 6.460000000000001 to 6.460000000000001
+SUCCESS
+
+2025-04-19 20:11:07,744 [simulate_environment.py | 254] INFO: 2025-04-19 00:30:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:07,744 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:07,745 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 00:40:00, pre time: 2025-04-19 00:30:00
+2025-04-19 20:11:07,745 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 00:40:00
+2025-04-19 20:11:07,760 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 1 ongoing order items, 0 completed order items
+2025-04-19 20:11:09,103 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0009500002-1 p1_0018190003-1 d1_0018190003-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 6.460000000000001 to 6.460000000000001
+SUCCESS
+
+2025-04-19 20:11:09,106 [simulate_environment.py | 254] INFO: 2025-04-19 00:40:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:09,106 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:09,106 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 00:50:00, pre time: 2025-04-19 00:40:00
+2025-04-19 20:11:09,106 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 00:50:00
+2025-04-19 20:11:09,119 [simulate_environment.py | 167] INFO: Get 4 unallocated order items, 1 ongoing order items, 0 completed order items
+2025-04-19 20:11:12,878 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [5.799999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [5.799999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [5.799999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [5.799999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 5.16 , Best individual in the population = [5.16, 0.0]
+Generation 2: Best Fitness = 5.04 , Best individual in the population = [5.04, 0.0]
+Generation 3: Best Fitness = 5.04 , Best individual in the population = [5.04, 0.0]
+Generation 4: Best Fitness = 5.04 , Best individual in the population = [5.04, 0.0]
+Generation 5: Best Fitness = 5.04 , Best individual in the population = [5.04, 0.0]
+Generation 6: Best Fitness = 5.04 , Best individual in the population = [5.04, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[p1_0047070005-1 p1_0018190003-1 d1_0018190003-1 d1_0047070005-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[p1_0018190003-1 d1_0018190003-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 5.16 to 5.04
+SUCCESS
+
+2025-04-19 20:11:12,892 [simulate_environment.py | 254] INFO: 2025-04-19 00:50:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:12,893 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:12,893 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:00:00, pre time: 2025-04-19 00:50:00
+2025-04-19 20:11:12,894 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:00:00
+2025-04-19 20:11:12,900 [simulate_environment.py | 167] INFO: Get 3 unallocated order items, 2 ongoing order items, 0 completed order items
+2025-04-19 20:11:15,993 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 2: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 3: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 4: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 4.76 to 4.76
+SUCCESS
+
+2025-04-19 20:11:16,010 [simulate_environment.py | 254] INFO: 2025-04-19 01:00:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:16,010 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:16,011 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:10:00, pre time: 2025-04-19 01:00:00
+2025-04-19 20:11:16,011 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:10:00
+2025-04-19 20:11:16,025 [simulate_environment.py | 167] INFO: Get 3 unallocated order items, 2 ongoing order items, 0 completed order items
+2025-04-19 20:11:19,149 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [4.76, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 2: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 3: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Generation 4: Best Fitness = 4.76 , Best individual in the population = [4.76, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0009500002-1 p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 4.76 to 4.76
+SUCCESS
+
+2025-04-19 20:11:19,152 [simulate_environment.py | 254] INFO: 2025-04-19 01:10:00, Item 0009500002-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:19,153 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:19,153 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:20:00, pre time: 2025-04-19 01:10:00
+2025-04-19 20:11:19,153 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:20:00
+2025-04-19 20:11:19,166 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 3 ongoing order items, 0 completed order items
+2025-04-19 20:11:20,576 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[d1_0018190003-1] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 426.9822222222222 to 426.9822222222222
+SUCCESS
+
+2025-04-19 20:11:20,589 [simulate_environment.py | 254] INFO: 2025-04-19 01:20:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:20,589 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:20,589 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:30:00, pre time: 2025-04-19 01:20:00
+2025-04-19 20:11:20,589 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:30:00
+2025-04-19 20:11:20,603 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 2 ongoing order items, 1 completed order items
+2025-04-19 20:11:22,009 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 426.72222222222223 to 426.72222222222223
+SUCCESS
+
+2025-04-19 20:11:22,021 [simulate_environment.py | 254] INFO: 2025-04-19 01:30:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:22,021 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:22,021 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:40:00, pre time: 2025-04-19 01:30:00
+2025-04-19 20:11:22,021 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:40:00
+2025-04-19 20:11:22,025 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 2 ongoing order items, 1 completed order items
+2025-04-19 20:11:23,357 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 426.72222222222223 to 426.72222222222223
+SUCCESS
+
+2025-04-19 20:11:23,360 [simulate_environment.py | 254] INFO: 2025-04-19 01:40:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:23,360 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:23,361 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 01:50:00, pre time: 2025-04-19 01:40:00
+2025-04-19 20:11:23,361 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 01:50:00
+2025-04-19 20:11:23,369 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 2 ongoing order items, 1 completed order items
+2025-04-19 20:11:24,697 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 424.14222222222224 to 424.14222222222224
+SUCCESS
+
+2025-04-19 20:11:24,700 [simulate_environment.py | 254] INFO: 2025-04-19 01:50:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:24,701 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:24,701 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:00:00, pre time: 2025-04-19 01:50:00
+2025-04-19 20:11:24,701 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:00:00
+2025-04-19 20:11:24,713 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 2 ongoing order items, 1 completed order items
+2025-04-19 20:11:26,068 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 424.14222222222224 to 424.14222222222224
+SUCCESS
+
+2025-04-19 20:11:26,070 [simulate_environment.py | 254] INFO: 2025-04-19 02:00:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:26,071 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:26,071 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:10:00, pre time: 2025-04-19 02:00:00
+2025-04-19 20:11:26,071 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:10:00
+2025-04-19 20:11:26,072 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 2 ongoing order items, 1 completed order items
+2025-04-19 20:11:27,469 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[] V_3:[] V_4:[] V_5:[p1_0047010004-1 d1_0047010004-1 p1_0047070005-1 d1_0047070005-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 424.14222222222224 to 424.14222222222224
+SUCCESS
+
+2025-04-19 20:11:27,472 [simulate_environment.py | 254] INFO: 2025-04-19 02:10:00, Item 0047010004-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:27,473 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:27,473 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:20:00, pre time: 2025-04-19 02:10:00
+2025-04-19 20:11:27,473 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:20:00
+2025-04-19 20:11:27,478 [simulate_environment.py | 167] INFO: Get 3 unallocated order items, 3 ongoing order items, 1 completed order items
+2025-04-19 20:11:30,254 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [5.66, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [5.66, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [5.66, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [5.66, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 5.66 , Best individual in the population = [5.66, 0.0]
+Generation 2: Best Fitness = 5.6 , Best individual in the population = [5.6, 0.0]
+Generation 3: Best Fitness = 5.6 , Best individual in the population = [5.6, 0.0]
+Generation 4: Best Fitness = 5.6 , Best individual in the population = [5.6, 0.0]
+Generation 5: Best Fitness = 5.6 , Best individual in the population = [5.6, 0.0]
+Generation 6: Best Fitness = 5.6 , Best individual in the population = [5.6, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_0047070005-1 d1_0047070005-1] V_2:[p2_0214070006-1 d2_0214070006-2] V_3:[] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p2_0214070006-1 d2_0214070006-2 p1_0047070005-1 d1_0047070005-1] V_3:[] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 12.760000000000002 to 5.6
+SUCCESS
+
+2025-04-19 20:11:30,273 [simulate_environment.py | 254] INFO: 2025-04-19 02:20:00, Item 0047070005-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:30,273 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:30,274 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:30:00, pre time: 2025-04-19 02:20:00
+2025-04-19 20:11:30,274 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:30:00
+2025-04-19 20:11:30,275 [simulate_environment.py | 167] INFO: Get 4 unallocated order items, 3 ongoing order items, 1 completed order items
+2025-04-19 20:11:33,234 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [4.220000000000001, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.220000000000001 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 2: Best Fitness = 4.220000000000001 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 3: Best Fitness = 4.220000000000001 , Best individual in the population = [4.220000000000001, 0.0]
+Generation 4: Best Fitness = 4.220000000000001 , Best individual in the population = [4.220000000000001, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p2_0214070006-1 p1_0047070005-1 d1_0047070005-1 p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p2_0214070006-1 p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[p1_0047070005-1 d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 4.28 to 4.220000000000001
+SUCCESS
+
+2025-04-19 20:11:33,251 [simulate_environment.py | 254] INFO: 2025-04-19 02:30:00, Item 0047070005-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:33,251 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:33,251 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:40:00, pre time: 2025-04-19 02:30:00
+2025-04-19 20:11:33,251 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:40:00
+2025-04-19 20:11:33,260 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 6 ongoing order items, 1 completed order items
+2025-04-19 20:11:34,663 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 3.9800000000000004 to 3.9800000000000004
+SUCCESS
+
+2025-04-19 20:11:34,675 [simulate_environment.py | 254] INFO: 2025-04-19 02:40:00, Item 0225350007-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:34,675 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:34,676 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 02:50:00, pre time: 2025-04-19 02:40:00
+2025-04-19 20:11:34,676 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 02:50:00
+2025-04-19 20:11:34,681 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 6 ongoing order items, 1 completed order items
+2025-04-19 20:11:36,050 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 2.5000000000000004 to 2.5000000000000004
+SUCCESS
+
+2025-04-19 20:11:36,053 [simulate_environment.py | 254] INFO: 2025-04-19 02:50:00, Item 0225350007-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:36,053 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:36,053 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:00:00, pre time: 2025-04-19 02:50:00
+2025-04-19 20:11:36,053 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:00:00
+2025-04-19 20:11:36,057 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 6 ongoing order items, 1 completed order items
+2025-04-19 20:11:37,458 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 d2_0214070006-2] V_3:[d1_0047070005-1] V_4:[] V_5:[d1_0047010004-1 d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 2.5000000000000004 to 2.5000000000000004
+SUCCESS
+
+2025-04-19 20:11:37,461 [simulate_environment.py | 254] INFO: 2025-04-19 03:00:00, Item 0225350007-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:37,461 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:37,461 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:10:00, pre time: 2025-04-19 03:00:00
+2025-04-19 20:11:37,462 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:10:00
+2025-04-19 20:11:37,478 [simulate_environment.py | 167] INFO: Get 4 unallocated order items, 4 ongoing order items, 3 completed order items
+2025-04-19 20:11:38,846 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 p3_0309190008-1 d3_0309190008-3 d2_0214070006-2] V_3:[] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 p3_0309190008-1 d3_0309190008-3 d2_0214070006-2] V_3:[] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 5.140000000000001 to 5.140000000000001
+SUCCESS
+
+2025-04-19 20:11:38,864 [simulate_environment.py | 254] INFO: 2025-04-19 03:10:00, Item 0225350007-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:38,864 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:38,864 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:20:00, pre time: 2025-04-19 03:10:00
+2025-04-19 20:11:38,864 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:20:00
+2025-04-19 20:11:38,869 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 4 ongoing order items, 3 completed order items
+2025-04-19 20:11:43,617 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [4.04, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [4.04, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [4.04, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [4.04, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.04 , Best individual in the population = [4.04, 0.0]
+Generation 2: Best Fitness = 4.04 , Best individual in the population = [4.04, 0.0]
+Generation 3: Best Fitness = 4.04 , Best individual in the population = [4.04, 0.0]
+Generation 4: Best Fitness = 4.04 , Best individual in the population = [4.04, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 p1_0318410010-1 p3_0309190008-1 d3_0309190008-3 d1_0318410010-1 d2_0214070006-2 p3_0317180009-1 d3_0317180009-3] V_3:[] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[p1_0225350007-1 d1_0225350007-1 p1_0318410010-1 p3_0309190008-1 d3_0309190008-3 d1_0318410010-1 d2_0214070006-2 p3_0317180009-1 d3_0317180009-3] V_3:[] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 4.04 to 4.04
+SUCCESS
+
+2025-04-19 20:11:43,626 [simulate_environment.py | 254] INFO: 2025-04-19 03:20:00, Item 0225350007-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:43,626 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:43,626 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:30:00, pre time: 2025-04-19 03:20:00
+2025-04-19 20:11:43,626 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:30:00
+2025-04-19 20:11:43,634 [simulate_environment.py | 167] INFO: Get 9 unallocated order items, 5 ongoing order items, 3 completed order items
+2025-04-19 20:11:50,283 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [7.160000000000001, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [7.160000000000001, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [7.160000000000001, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [7.160000000000001, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.380000000000001 , Best individual in the population = [4.380000000000001, 0.0]
+Generation 2: Best Fitness = 4.380000000000001 , Best individual in the population = [4.380000000000001, 0.0]
+Generation 3: Best Fitness = 4.380000000000001 , Best individual in the population = [4.380000000000001, 0.0]
+Generation 4: Best Fitness = 4.380000000000001 , Best individual in the population = [4.380000000000001, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0225350007-1 p1_0318410010-1 p3_0309190008-1 d3_0309190008-3 d1_0318410010-1 d2_0214070006-2 p3_0317180009-1 d3_0317180009-3] V_3:[] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1 p2_0327010011-1 d2_0327010011-2]
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2] V_3:[p2_0327010011-1 p3_0309190008-1 p1_0318410010-1 d1_0318410010-1 d3_0309190008-3 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 7.339999999999999 to 4.380000000000001
+SUCCESS
+
+2025-04-19 20:11:50,300 [simulate_environment.py | 254] INFO: 2025-04-19 03:30:00, Item 0309190008-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:50,300 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:50,300 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:40:00, pre time: 2025-04-19 03:30:00
+2025-04-19 20:11:50,300 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:40:00
+2025-04-19 20:11:50,307 [simulate_environment.py | 167] INFO: Get 12 unallocated order items, 5 ongoing order items, 3 completed order items
+2025-04-19 20:11:59,899 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.2, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.2, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.2, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.2, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.2 , Best individual in the population = [2.2, 0.0]
+Generation 2: Best Fitness = 2.2 , Best individual in the population = [2.2, 0.0]
+Generation 3: Best Fitness = 2.2 , Best individual in the population = [2.2, 0.0]
+Generation 4: Best Fitness = 2.2 , Best individual in the population = [2.2, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2] V_3:[p2_0339110013-1 p2_0327010011-1 p1_0336080012-1 p3_0309190008-1 p1_0318410010-1 d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2] V_3:[p2_0339110013-1 p2_0327010011-1 p1_0336080012-1 p3_0309190008-1 p1_0318410010-1 d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[d1_0009500002-1 d1_0009380001-1]
+After GA, the cost of solution decrease from 2.2 to 2.2
+SUCCESS
+
+2025-04-19 20:11:59,918 [simulate_environment.py | 254] INFO: 2025-04-19 03:40:00, Item 0309190008-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:11:59,918 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:11:59,918 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 03:50:00, pre time: 2025-04-19 03:40:00
+2025-04-19 20:11:59,918 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 03:50:00
+2025-04-19 20:11:59,932 [simulate_environment.py | 167] INFO: Get 13 unallocated order items, 3 ongoing order items, 5 completed order items
+2025-04-19 20:12:13,231 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.180000000000001, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 12.180000000000001 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 2: Best Fitness = 12.180000000000001 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 3: Best Fitness = 12.180000000000001 , Best individual in the population = [12.180000000000001, 0.0]
+Generation 4: Best Fitness = 12.180000000000001 , Best individual in the population = [12.180000000000001, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2 p1_0344280014-1 d1_0344280014-1] V_3:[p2_0339110013-1 p2_0327010011-1 p1_0336080012-1 p3_0309190008-1 p1_0318410010-1 d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[]
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2 p1_0344280014-1 d1_0344280014-1] V_3:[p2_0339110013-1 p2_0327010011-1 p1_0336080012-1 p3_0309190008-1 p1_0318410010-1 d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 12.180000000000001 to 12.180000000000001
+SUCCESS
+
+2025-04-19 20:12:13,245 [simulate_environment.py | 254] INFO: 2025-04-19 03:50:00, Item 0309190008-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:12:13,245 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:12:13,245 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:00:00, pre time: 2025-04-19 03:50:00
+2025-04-19 20:12:13,246 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:00:00
+2025-04-19 20:12:13,260 [simulate_environment.py | 167] INFO: Get 7 unallocated order items, 12 ongoing order items, 5 completed order items
+2025-04-19 20:12:26,178 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [15.5, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [15.5, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [15.5, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [15.5, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 13.98 , Best individual in the population = [13.98, 0.0]
+Generation 2: Best Fitness = 13.98 , Best individual in the population = [13.98, 0.0]
+Generation 3: Best Fitness = 13.98 , Best individual in the population = [13.98, 0.0]
+Generation 4: Best Fitness = 13.98 , Best individual in the population = [13.98, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2 p1_0344280014-1 d1_0344280014-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0350060015-1 d1_0350060015-1 p1_0351470016-1 p1_0359180017-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0225350007-1 d2_0214070006-2 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0344280014-1 d1_0344280014-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 15.5 to 13.98
+SUCCESS
+
+2025-04-19 20:12:26,192 [simulate_environment.py | 254] INFO: 2025-04-19 04:00:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:12:26,193 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:12:26,193 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:10:00, pre time: 2025-04-19 04:00:00
+2025-04-19 20:12:26,194 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:10:00
+2025-04-19 20:12:26,197 [simulate_environment.py | 167] INFO: Get 7 unallocated order items, 11 ongoing order items, 6 completed order items
+2025-04-19 20:12:35,377 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [13.86, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [13.86, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [13.86, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [13.86, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 13.86 , Best individual in the population = [13.86, 0.0]
+Generation 2: Best Fitness = 13.86 , Best individual in the population = [13.86, 0.0]
+Generation 3: Best Fitness = 13.86 , Best individual in the population = [13.86, 0.0]
+Generation 4: Best Fitness = 13.86 , Best individual in the population = [13.86, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0214070006-2 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0344280014-1 d1_0344280014-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0214070006-2 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0344280014-1 d1_0344280014-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 13.86 to 13.86
+SUCCESS
+
+2025-04-19 20:12:35,400 [simulate_environment.py | 254] INFO: 2025-04-19 04:10:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:12:35,401 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:12:35,401 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:20:00, pre time: 2025-04-19 04:10:00
+2025-04-19 20:12:35,401 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:20:00
+2025-04-19 20:12:35,418 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 11 ongoing order items, 6 completed order items
+2025-04-19 20:12:48,305 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 2: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 3: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 4: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0214070006-2 p1_0413070018-1 d1_0413070018-1 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0344280014-1 d1_0344280014-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0214070006-2 p1_0413070018-1 d1_0413070018-1 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0344280014-1 d1_0344280014-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 12.1 to 12.1
+SUCCESS
+
+2025-04-19 20:12:48,321 [simulate_environment.py | 254] INFO: 2025-04-19 04:20:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:12:48,322 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:12:48,322 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:30:00, pre time: 2025-04-19 04:20:00
+2025-04-19 20:12:48,322 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:30:00
+2025-04-19 20:12:48,338 [simulate_environment.py | 167] INFO: Get 9 unallocated order items, 11 ongoing order items, 6 completed order items
+2025-04-19 20:13:05,603 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.1, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 2: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 3: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Generation 4: Best Fitness = 12.1 , Best individual in the population = [12.1, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0214070006-2 p1_0413070018-1 d1_0413070018-1 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0425020019-1 p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0214070006-2 p1_0413070018-1 d1_0413070018-1 p1_0350060015-1 d1_0350060015-1] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0351470016-1 p1_0359180017-1 p1_0425020019-1 p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 12.1 to 12.1
+SUCCESS
+
+2025-04-19 20:13:05,622 [simulate_environment.py | 254] INFO: 2025-04-19 04:30:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:13:05,622 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:13:05,622 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:40:00, pre time: 2025-04-19 04:30:00
+2025-04-19 20:13:05,623 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:40:00
+2025-04-19 20:13:05,635 [simulate_environment.py | 167] INFO: Get 7 unallocated order items, 13 ongoing order items, 8 completed order items
+2025-04-19 20:13:13,137 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [12.68, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 582.1244444444444 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 2: Best Fitness = 582.1244444444444 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 3: Best Fitness = 582.1244444444444 , Best individual in the population = [12.68, 569.4444444444445]
+Generation 4: Best Fitness = 582.1244444444444 , Best individual in the population = [12.68, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p2_0435320020-1 d2_0435320020-2] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 d3_0317180009-3] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 p2_0435320020-1 d2_0435320020-2 d2_0339110013-2] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 582.1244444444444 to 582.1244444444444
+SUCCESS
+
+2025-04-19 20:13:13,158 [simulate_environment.py | 254] INFO: 2025-04-19 04:40:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:13:13,158 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:13:13,158 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 04:50:00, pre time: 2025-04-19 04:40:00
+2025-04-19 20:13:13,159 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 04:50:00
+2025-04-19 20:13:13,166 [simulate_environment.py | 167] INFO: Get 9 unallocated order items, 13 ongoing order items, 8 completed order items
+2025-04-19 20:13:24,540 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [11.499999999999998, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [11.499999999999998, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [11.499999999999998, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [11.499999999999998, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 580.6044444444444 , Best individual in the population = [11.16, 569.4444444444445]
+Generation 2: Best Fitness = 580.6044444444444 , Best individual in the population = [11.16, 569.4444444444445]
+Generation 3: Best Fitness = 580.6044444444444 , Best individual in the population = [11.16, 569.4444444444445]
+Generation 4: Best Fitness = 580.6044444444444 , Best individual in the population = [11.16, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 d2_0339110013-2] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 d2_0339110013-2] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 580.6044444444444 to 580.6044444444444
+SUCCESS
+
+2025-04-19 20:13:24,551 [simulate_environment.py | 254] INFO: 2025-04-19 04:50:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:13:24,552 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:13:24,552 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:00:00, pre time: 2025-04-19 04:50:00
+2025-04-19 20:13:24,552 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:00:00
+2025-04-19 20:13:24,556 [simulate_environment.py | 167] INFO: Get 10 unallocated order items, 13 ongoing order items, 8 completed order items
+2025-04-19 20:13:40,389 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 2: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 3: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 4: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 d2_0339110013-2 p1_0457450022-1 d1_0457450022-1] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0318410010-1 d3_0309190008-3 d1_0336080012-1 d2_0327010011-2 d2_0339110013-2 p1_0457450022-1 d1_0457450022-1] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 583.8444444444444 to 583.8444444444444
+SUCCESS
+
+2025-04-19 20:13:40,406 [simulate_environment.py | 254] INFO: 2025-04-19 05:00:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:13:40,406 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:13:40,406 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:10:00, pre time: 2025-04-19 05:00:00
+2025-04-19 20:13:40,406 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:10:00
+2025-04-19 20:13:40,416 [simulate_environment.py | 167] INFO: Get 10 unallocated order items, 9 ongoing order items, 12 completed order items
+2025-04-19 20:13:54,737 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [14.4, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 2: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 3: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Generation 4: Best Fitness = 583.8444444444444 , Best individual in the population = [14.4, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0336080012-1 d2_0327010011-2 d2_0339110013-2 p1_0457450022-1 d1_0457450022-1] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0413070018-1 p1_0350060015-1 d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0336080012-1 d2_0327010011-2 d2_0339110013-2 p1_0457450022-1 d1_0457450022-1] V_4:[] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 583.8444444444444 to 583.8444444444444
+SUCCESS
+
+2025-04-19 20:13:54,754 [simulate_environment.py | 254] INFO: 2025-04-19 05:10:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:13:54,755 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:13:54,755 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:20:00, pre time: 2025-04-19 05:10:00
+2025-04-19 20:13:54,755 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:20:00
+2025-04-19 20:13:54,759 [simulate_environment.py | 167] INFO: Get 10 unallocated order items, 9 ongoing order items, 13 completed order items
+2025-04-19 20:14:08,157 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [17.660000000000004, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [17.660000000000004, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [17.660000000000004, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [17.660000000000004, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 584.0244444444445 , Best individual in the population = [14.579999999999998, 569.4444444444445]
+Generation 2: Best Fitness = 584.0244444444445 , Best individual in the population = [14.579999999999998, 569.4444444444445]
+Generation 3: Best Fitness = 584.0244444444445 , Best individual in the population = [14.579999999999998, 569.4444444444445]
+Generation 4: Best Fitness = 584.0244444444445 , Best individual in the population = [14.579999999999998, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0350060015-1 p3_0317180009-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2 d3_0317180009-3] V_3:[d1_0336080012-1 d2_0327010011-2 d2_0339110013-2 p1_0457450022-1 d1_0457450022-1] V_4:[p1_0517540023-1 d1_0517540023-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 d2_0435320020-2] V_3:[d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0457450022-1 p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 587.1844444444445 to 584.0244444444445
+SUCCESS
+
+2025-04-19 20:14:08,174 [simulate_environment.py | 254] INFO: 2025-04-19 05:20:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:14:08,174 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:14:08,175 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:30:00, pre time: 2025-04-19 05:20:00
+2025-04-19 20:14:08,175 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:30:00
+2025-04-19 20:14:08,181 [simulate_environment.py | 167] INFO: Get 11 unallocated order items, 9 ongoing order items, 13 completed order items
+2025-04-19 20:14:21,718 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 581.7844444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 2: Best Fitness = 581.7844444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 3: Best Fitness = 581.7844444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Generation 4: Best Fitness = 581.7844444444445 , Best individual in the population = [12.34, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0457450022-1 p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d1_0336080012-1 d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0457450022-1 p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 581.7844444444445 to 581.7844444444445
+SUCCESS
+
+2025-04-19 20:14:21,735 [simulate_environment.py | 254] INFO: 2025-04-19 05:30:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:14:21,736 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:14:21,736 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:40:00, pre time: 2025-04-19 05:30:00
+2025-04-19 20:14:21,736 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:40:00
+2025-04-19 20:14:21,744 [simulate_environment.py | 167] INFO: Get 11 unallocated order items, 8 ongoing order items, 14 completed order items
+2025-04-19 20:14:34,841 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 581.7244444444444 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 2: Best Fitness = 581.7244444444444 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 3: Best Fitness = 581.7244444444444 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Generation 4: Best Fitness = 581.7244444444444 , Best individual in the population = [12.279999999999998, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0457450022-1 p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0457450022-1 p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 581.7244444444444 to 581.7244444444444
+SUCCESS
+
+2025-04-19 20:14:34,855 [simulate_environment.py | 254] INFO: 2025-04-19 05:40:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:14:34,856 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:14:34,856 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 05:50:00, pre time: 2025-04-19 05:40:00
+2025-04-19 20:14:34,856 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 05:50:00
+2025-04-19 20:14:34,869 [simulate_environment.py | 167] INFO: Get 11 unallocated order items, 9 ongoing order items, 14 completed order items
+2025-04-19 20:14:49,320 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 584.9444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 2: Best Fitness = 584.9444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 3: Best Fitness = 584.9444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Generation 4: Best Fitness = 584.9444444444445 , Best individual in the population = [15.5, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1 p1_0546020025-1 d1_0546020025-1]
+V_1:[] V_2:[d1_0350060015-1 p2_0441330021-1 d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[p1_0344280014-1 d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1 p1_0546020025-1 d1_0546020025-1]
+After GA, the cost of solution decrease from 584.9444444444445 to 584.9444444444445
+SUCCESS
+
+2025-04-19 20:14:49,339 [simulate_environment.py | 254] INFO: 2025-04-19 05:50:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:14:49,339 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:14:49,339 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:00:00, pre time: 2025-04-19 05:50:00
+2025-04-19 20:14:49,339 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:00:00
+2025-04-19 20:14:49,353 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 11 ongoing order items, 15 completed order items
+2025-04-19 20:15:00,565 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 5: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_0546020025-1 d1_0546020025-1] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2 p1_0546020025-1 d1_0546020025-1] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1258.711111111111 to 1251.591111111111
+SUCCESS
+
+2025-04-19 20:15:00,586 [simulate_environment.py | 254] INFO: 2025-04-19 06:00:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:15:00,586 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:15:00,586 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:10:00, pre time: 2025-04-19 06:00:00
+2025-04-19 20:15:00,586 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:10:00
+2025-04-19 20:15:00,588 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 11 ongoing order items, 15 completed order items
+2025-04-19 20:15:09,310 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1251.591111111111 , Best individual in the population = [15.479999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2 p1_0546020025-1 d1_0546020025-1] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d2_0327010011-2 p3_0317180009-1 d3_0317180009-3 d2_0339110013-2 p1_0546020025-1 d1_0546020025-1] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1251.591111111111 to 1251.591111111111
+SUCCESS
+
+2025-04-19 20:15:09,314 [simulate_environment.py | 254] INFO: 2025-04-19 06:10:00, Item 0317180009-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:15:09,315 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:15:09,315 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:20:00, pre time: 2025-04-19 06:10:00
+2025-04-19 20:15:09,315 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:20:00
+2025-04-19 20:15:09,322 [simulate_environment.py | 167] INFO: Get 7 unallocated order items, 12 ongoing order items, 17 completed order items
+2025-04-19 20:15:22,363 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1249.2911111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 2: Best Fitness = 1249.2911111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 3: Best Fitness = 1249.2911111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Generation 4: Best Fitness = 1249.2911111111111 , Best individual in the population = [13.180000000000001, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1] V_4:[p1_0517540023-1 p1_0617300026-1 d1_0617300026-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1] V_4:[p1_0517540023-1 p1_0617300026-1 d1_0617300026-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1249.2911111111111 to 1249.2911111111111
+SUCCESS
+
+2025-04-19 20:15:22,380 [simulate_environment.py | 254] INFO: 2025-04-19 06:20:00, Item 0435320020-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:15:22,381 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:15:22,381 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:30:00, pre time: 2025-04-19 06:20:00
+2025-04-19 20:15:22,381 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:30:00
+2025-04-19 20:15:22,385 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 12 ongoing order items, 17 completed order items
+2025-04-19 20:15:40,291 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1244.3111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 2: Best Fitness = 1244.3111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 3: Best Fitness = 1244.3111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Generation 4: Best Fitness = 1244.3111111111111 , Best individual in the population = [8.2, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[p1_0517540023-1 p1_0617300026-1 d1_0617300026-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d2_0441330021-2 p2_0435320020-1 p1_0520200024-1 d1_0520200024-1 d2_0435320020-2] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[p1_0517540023-1 p1_0617300026-1 d1_0617300026-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1244.3111111111111 to 1244.3111111111111
+SUCCESS
+
+2025-04-19 20:15:40,302 [simulate_environment.py | 254] INFO: 2025-04-19 06:30:00, Item 0435320020-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:15:40,302 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:15:40,302 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:40:00, pre time: 2025-04-19 06:30:00
+2025-04-19 20:15:40,302 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:40:00
+2025-04-19 20:15:40,306 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 13 ongoing order items, 19 completed order items
+2025-04-19 20:15:54,494 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [8.319999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [8.319999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [8.319999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [8.319999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 2: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 3: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 4: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 d1_0617300026-1] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 d1_0617300026-1] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[p1_0517540023-1 d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1244.2911111111111 to 1244.2911111111111
+SUCCESS
+
+2025-04-19 20:15:54,512 [simulate_environment.py | 254] INFO: 2025-04-19 06:40:00, Item 0517540023-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:15:54,512 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:15:54,513 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 06:50:00, pre time: 2025-04-19 06:40:00
+2025-04-19 20:15:54,513 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 06:50:00
+2025-04-19 20:15:54,525 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 14 ongoing order items, 19 completed order items
+2025-04-19 20:16:12,127 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 2: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 3: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Generation 4: Best Fitness = 1244.2911111111111 , Best individual in the population = [8.18, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1] V_3:[d3_0317180009-3 d2_0339110013-2 p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1244.2911111111111 to 1244.2911111111111
+SUCCESS
+
+2025-04-19 20:16:12,145 [simulate_environment.py | 254] INFO: 2025-04-19 06:50:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:16:12,146 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:16:12,146 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:00:00, pre time: 2025-04-19 06:50:00
+2025-04-19 20:16:12,146 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:00:00
+2025-04-19 20:16:12,150 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 9 ongoing order items, 24 completed order items
+2025-04-19 20:16:29,480 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [11.78, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [11.78, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [11.78, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [11.78, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1246.9911111111112 to 1246.9911111111112
+SUCCESS
+
+2025-04-19 20:16:29,497 [simulate_environment.py | 254] INFO: 2025-04-19 07:00:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:16:29,497 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:16:29,497 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:10:00, pre time: 2025-04-19 07:00:00
+2025-04-19 20:16:29,497 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:10:00
+2025-04-19 20:16:29,510 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 9 ongoing order items, 24 completed order items
+2025-04-19 20:16:49,279 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 1236.111111111111 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1236.111111111111 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1236.111111111111 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1236.111111111111 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 2: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 3: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Generation 4: Best Fitness = 1246.9911111111112 , Best individual in the population = [10.879999999999999, 1236.111111111111]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0344280014-1 d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 1246.9911111111112 to 1246.9911111111112
+SUCCESS
+
+2025-04-19 20:16:49,289 [simulate_environment.py | 254] INFO: 2025-04-19 07:10:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:16:49,290 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:16:49,290 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:20:00, pre time: 2025-04-19 07:10:00
+2025-04-19 20:16:49,290 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:20:00
+2025-04-19 20:16:49,291 [simulate_environment.py | 167] INFO: Get 8 unallocated order items, 8 ongoing order items, 25 completed order items
+2025-04-19 20:17:06,550 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 2: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 3: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 4: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0520200024-1 d2_0435320020-2 p2_0654310031-1 p1_0637000029-1 d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 576.8244444444445 to 576.8244444444445
+SUCCESS
+
+2025-04-19 20:17:06,564 [simulate_environment.py | 254] INFO: 2025-04-19 07:20:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:06,565 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:06,566 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:30:00, pre time: 2025-04-19 07:20:00
+2025-04-19 20:17:06,566 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:30:00
+2025-04-19 20:17:06,572 [simulate_environment.py | 167] INFO: Get 5 unallocated order items, 8 ongoing order items, 28 completed order items
+2025-04-19 20:17:15,264 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 2: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 3: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Generation 4: Best Fitness = 576.8244444444445 , Best individual in the population = [7.38, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 576.8244444444445 to 576.8244444444445
+SUCCESS
+
+2025-04-19 20:17:15,279 [simulate_environment.py | 254] INFO: 2025-04-19 07:30:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:15,279 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:15,280 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:40:00, pre time: 2025-04-19 07:30:00
+2025-04-19 20:17:15,280 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:40:00
+2025-04-19 20:17:15,291 [simulate_environment.py | 167] INFO: Get 5 unallocated order items, 8 ongoing order items, 28 completed order items
+2025-04-19 20:17:23,471 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 2: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 3: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 4: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0517540023-1 d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 575.0644444444445 to 575.0644444444445
+SUCCESS
+
+2025-04-19 20:17:23,474 [simulate_environment.py | 254] INFO: 2025-04-19 07:40:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:23,474 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:23,474 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 07:50:00, pre time: 2025-04-19 07:40:00
+2025-04-19 20:17:23,474 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 07:50:00
+2025-04-19 20:17:23,478 [simulate_environment.py | 167] INFO: Get 5 unallocated order items, 7 ongoing order items, 29 completed order items
+2025-04-19 20:17:31,184 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 2: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 3: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 4: Best Fitness = 569.4444444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 2: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 3: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Generation 4: Best Fitness = 575.0644444444445 , Best individual in the population = [5.62, 569.4444444444445]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[p1_0622000028-1 p1_0546020025-1 p1_0619540027-1 d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[d1_0425020019-1 d1_0359180017-1 d1_0351470016-1]
+After GA, the cost of solution decrease from 575.0644444444445 to 575.0644444444445
+SUCCESS
+
+2025-04-19 20:17:31,201 [simulate_environment.py | 254] INFO: 2025-04-19 07:50:00, Item 0546020025-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:31,202 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:31,202 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:00:00, pre time: 2025-04-19 07:50:00
+2025-04-19 20:17:31,202 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:00:00
+2025-04-19 20:17:31,213 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 7 ongoing order items, 32 completed order items
+2025-04-19 20:17:34,405 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [5.4799999999999995, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 5.4799999999999995 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 2: Best Fitness = 5.4799999999999995 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 3: Best Fitness = 5.4799999999999995 , Best individual in the population = [5.4799999999999995, 0.0]
+Generation 4: Best Fitness = 5.4799999999999995 , Best individual in the population = [5.4799999999999995, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[]
+V_1:[] V_2:[d1_0637000029-1 p1_0641370030-1 p1_0617300026-1 d1_0617300026-1 d1_0641370030-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[]
+After GA, the cost of solution decrease from 5.4799999999999995 to 5.4799999999999995
+SUCCESS
+
+2025-04-19 20:17:34,423 [simulate_environment.py | 254] INFO: 2025-04-19 08:00:00, Item 0617300026-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:34,423 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:34,423 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:10:00, pre time: 2025-04-19 08:00:00
+2025-04-19 20:17:34,424 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:10:00
+2025-04-19 20:17:34,432 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 7 ongoing order items, 32 completed order items
+2025-04-19 20:17:37,650 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [5.18, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [5.18, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [5.18, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [5.18, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 5.18 , Best individual in the population = [5.18, 0.0]
+Generation 2: Best Fitness = 5.18 , Best individual in the population = [5.18, 0.0]
+Generation 3: Best Fitness = 5.18 , Best individual in the population = [5.18, 0.0]
+Generation 4: Best Fitness = 5.18 , Best individual in the population = [5.18, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_0637000029-1 p1_0641370030-1 p1_0617300026-1 d1_0617300026-1 d1_0641370030-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[]
+V_1:[] V_2:[d1_0637000029-1 p1_0617300026-1 p1_0641370030-1 d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[d1_0457450022-1] V_5:[]
+After GA, the cost of solution decrease from 5.18 to 5.18
+SUCCESS
+
+2025-04-19 20:17:37,663 [simulate_environment.py | 254] INFO: 2025-04-19 08:10:00, Item 0617300026-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:37,664 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:37,664 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:20:00, pre time: 2025-04-19 08:10:00
+2025-04-19 20:17:37,664 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:20:00
+2025-04-19 20:17:37,666 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 7 ongoing order items, 34 completed order items
+2025-04-19 20:17:39,043 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 5.12 to 5.12
+SUCCESS
+
+2025-04-19 20:17:39,059 [simulate_environment.py | 254] INFO: 2025-04-19 08:20:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:39,060 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:39,060 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:30:00, pre time: 2025-04-19 08:20:00
+2025-04-19 20:17:39,060 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:30:00
+2025-04-19 20:17:39,072 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 7 ongoing order items, 34 completed order items
+2025-04-19 20:17:40,598 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 5.12 to 5.12
+SUCCESS
+
+2025-04-19 20:17:40,601 [simulate_environment.py | 254] INFO: 2025-04-19 08:30:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:40,602 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:40,602 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:40:00, pre time: 2025-04-19 08:30:00
+2025-04-19 20:17:40,602 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:40:00
+2025-04-19 20:17:40,603 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 7 ongoing order items, 34 completed order items
+2025-04-19 20:17:42,047 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0619540027-1 d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 3.6399999999999997 to 3.6399999999999997
+SUCCESS
+
+2025-04-19 20:17:42,050 [simulate_environment.py | 254] INFO: 2025-04-19 08:40:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:42,050 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:42,051 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 08:50:00, pre time: 2025-04-19 08:40:00
+2025-04-19 20:17:42,051 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 08:50:00
+2025-04-19 20:17:42,056 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 6 ongoing order items, 35 completed order items
+2025-04-19 20:17:43,483 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d1_0641370030-1 d1_0617300026-1 d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 3.4599999999999995 to 3.4599999999999995
+SUCCESS
+
+2025-04-19 20:17:43,497 [simulate_environment.py | 254] INFO: 2025-04-19 08:50:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:43,497 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:43,497 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:00:00, pre time: 2025-04-19 08:50:00
+2025-04-19 20:17:43,497 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:00:00
+2025-04-19 20:17:43,510 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 4 ongoing order items, 37 completed order items
+2025-04-19 20:17:44,950 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 3.4599999999999995 to 3.4599999999999995
+SUCCESS
+
+2025-04-19 20:17:44,967 [simulate_environment.py | 254] INFO: 2025-04-19 09:00:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:44,968 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:44,968 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:10:00, pre time: 2025-04-19 09:00:00
+2025-04-19 20:17:44,968 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:10:00
+2025-04-19 20:17:44,978 [simulate_environment.py | 167] INFO: Get 0 unallocated order items, 4 ongoing order items, 37 completed order items
+2025-04-19 20:17:46,378 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[] V_5:[]
+After GA, the cost of solution decrease from 3.4599999999999995 to 3.4599999999999995
+SUCCESS
+
+2025-04-19 20:17:46,382 [simulate_environment.py | 254] INFO: 2025-04-19 09:10:00, Item 0917000032-1: state = 0 < 2, we can not finish the simulation
+2025-04-19 20:17:46,382 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:46,383 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:20:00, pre time: 2025-04-19 09:10:00
+2025-04-19 20:17:46,384 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:20:00
+2025-04-19 20:17:46,386 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 4 ongoing order items, 37 completed order items
+2025-04-19 20:17:47,817 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[p1_0917000032-1 d1_0917000032-1] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0546020025-1 d1_0622000028-1] V_4:[p1_0917000032-1 d1_0917000032-1] V_5:[]
+After GA, the cost of solution decrease from 6.679999999999998 to 6.679999999999998
+SUCCESS
+
+2025-04-19 20:17:47,834 [simulate_environment.py | 254] INFO: 2025-04-19 09:20:00, Item 0917000032-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:47,835 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:47,835 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:30:00, pre time: 2025-04-19 09:20:00
+2025-04-19 20:17:47,836 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:30:00
+2025-04-19 20:17:47,839 [simulate_environment.py | 167] INFO: Get 3 unallocated order items, 3 ongoing order items, 38 completed order items
+2025-04-19 20:17:49,563 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p1_0917000032-1 p2_0926560033-1 d2_0926560033-2 d1_0917000032-1] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p1_0917000032-1 p2_0926560033-1 d2_0926560033-2 d1_0917000032-1] V_5:[]
+After GA, the cost of solution decrease from 2.14 to 2.14
+SUCCESS
+
+2025-04-19 20:17:49,579 [simulate_environment.py | 254] INFO: 2025-04-19 09:30:00, Item 0917000032-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:49,579 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:49,579 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:40:00, pre time: 2025-04-19 09:30:00
+2025-04-19 20:17:49,580 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:40:00
+2025-04-19 20:17:49,588 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 4 ongoing order items, 38 completed order items
+2025-04-19 20:17:51,113 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p2_0926560033-1 d2_0926560033-2 d1_0917000032-1] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p2_0926560033-1 d2_0926560033-2 d1_0917000032-1] V_5:[]
+After GA, the cost of solution decrease from 2.14 to 2.14
+SUCCESS
+
+2025-04-19 20:17:51,126 [simulate_environment.py | 254] INFO: 2025-04-19 09:40:00, Item 0926560033-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:51,126 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:51,127 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 09:50:00, pre time: 2025-04-19 09:40:00
+2025-04-19 20:17:51,127 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 09:50:00
+2025-04-19 20:17:51,135 [simulate_environment.py | 167] INFO: Get 4 unallocated order items, 4 ongoing order items, 38 completed order items
+2025-04-19 20:17:52,979 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1] V_5:[]
+V_1:[] V_2:[d2_0654310031-2] V_3:[d1_0622000028-1] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1] V_5:[]
+After GA, the cost of solution decrease from 2.16 to 2.16
+SUCCESS
+
+2025-04-19 20:17:52,999 [simulate_environment.py | 254] INFO: 2025-04-19 09:50:00, Item 0926560033-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:52,999 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:52,999 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:00:00, pre time: 2025-04-19 09:50:00
+2025-04-19 20:17:52,999 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:00:00
+2025-04-19 20:17:53,010 [simulate_environment.py | 167] INFO: Get 16 unallocated order items, 1 ongoing order items, 41 completed order items
+2025-04-19 20:17:56,596 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.3400000000000003, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.3400000000000003 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 2: Best Fitness = 2.3400000000000003 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 3: Best Fitness = 2.3400000000000003 , Best individual in the population = [2.3400000000000003, 0.0]
+Generation 4: Best Fitness = 2.3400000000000003 , Best individual in the population = [2.3400000000000003, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[]
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[]
+After GA, the cost of solution decrease from 2.3400000000000003 to 2.3400000000000003
+SUCCESS
+
+2025-04-19 20:17:56,615 [simulate_environment.py | 254] INFO: 2025-04-19 10:00:00, Item 0926560033-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:17:56,616 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:17:56,616 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:10:00, pre time: 2025-04-19 10:00:00
+2025-04-19 20:17:56,616 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:10:00
+2025-04-19 20:17:56,619 [simulate_environment.py | 167] INFO: Get 17 unallocated order items, 1 ongoing order items, 41 completed order items
+2025-04-19 20:18:01,812 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [3.7800000000000002, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 3.7800000000000002 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 2: Best Fitness = 3.7800000000000002 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 3: Best Fitness = 3.7800000000000002 , Best individual in the population = [3.7800000000000002, 0.0]
+Generation 4: Best Fitness = 3.7800000000000002 , Best individual in the population = [3.7800000000000002, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[p1_1001530036-1 d1_1001530036-1]
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[p1_1001530036-1 d1_1001530036-1]
+After GA, the cost of solution decrease from 3.7800000000000002 to 3.7800000000000002
+SUCCESS
+
+2025-04-19 20:18:01,826 [simulate_environment.py | 254] INFO: 2025-04-19 10:10:00, Item 0926560033-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:01,827 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:01,827 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:20:00, pre time: 2025-04-19 10:10:00
+2025-04-19 20:18:01,827 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:20:00
+2025-04-19 20:18:01,838 [simulate_environment.py | 167] INFO: Get 17 unallocated order items, 1 ongoing order items, 41 completed order items
+2025-04-19 20:18:05,353 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.3000000000000003, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.3000000000000003 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 2: Best Fitness = 2.3000000000000003 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 3: Best Fitness = 2.3000000000000003 , Best individual in the population = [2.3000000000000003, 0.0]
+Generation 4: Best Fitness = 2.3000000000000003 , Best individual in the population = [2.3000000000000003, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[p1_1001530036-1 d1_1001530036-1]
+V_1:[] V_2:[] V_3:[] V_4:[p2_0926560033-1 p2_0949430034-1 d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[p1_1001530036-1 d1_1001530036-1]
+After GA, the cost of solution decrease from 2.3000000000000003 to 2.3000000000000003
+SUCCESS
+
+2025-04-19 20:18:05,367 [simulate_environment.py | 254] INFO: 2025-04-19 10:20:00, Item 0926560033-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:05,367 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:05,367 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:30:00, pre time: 2025-04-19 10:20:00
+2025-04-19 20:18:05,367 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:30:00
+2025-04-19 20:18:05,369 [simulate_environment.py | 167] INFO: Get 18 unallocated order items, 6 ongoing order items, 41 completed order items
+2025-04-19 20:18:10,783 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 2: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 3: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 4: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+V_1:[] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+After GA, the cost of solution decrease from 2.64 to 2.64
+SUCCESS
+
+2025-04-19 20:18:10,800 [simulate_environment.py | 254] INFO: 2025-04-19 10:30:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:10,800 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:10,801 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:40:00, pre time: 2025-04-19 10:30:00
+2025-04-19 20:18:10,801 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:40:00
+2025-04-19 20:18:10,806 [simulate_environment.py | 167] INFO: Get 18 unallocated order items, 6 ongoing order items, 41 completed order items
+2025-04-19 20:18:16,103 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.64, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 2: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 3: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Generation 4: Best Fitness = 2.64 , Best individual in the population = [2.64, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+V_1:[] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+After GA, the cost of solution decrease from 2.64 to 2.64
+SUCCESS
+
+2025-04-19 20:18:16,111 [simulate_environment.py | 254] INFO: 2025-04-19 10:40:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:16,111 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:16,111 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 10:50:00, pre time: 2025-04-19 10:40:00
+2025-04-19 20:18:16,111 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 10:50:00
+2025-04-19 20:18:16,119 [simulate_environment.py | 167] INFO: Get 19 unallocated order items, 6 ongoing order items, 41 completed order items
+2025-04-19 20:18:23,852 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.9, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.9, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.9, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.9, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.9 , Best individual in the population = [16.9, 0.0]
+Generation 2: Best Fitness = 16.9 , Best individual in the population = [16.9, 0.0]
+Generation 3: Best Fitness = 16.9 , Best individual in the population = [16.9, 0.0]
+Generation 4: Best Fitness = 16.9 , Best individual in the population = [16.9, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2]
+After GA, the cost of solution decrease from 16.9 to 16.9
+SUCCESS
+
+2025-04-19 20:18:23,868 [simulate_environment.py | 254] INFO: 2025-04-19 10:50:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:23,868 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:23,868 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:00:00, pre time: 2025-04-19 10:50:00
+2025-04-19 20:18:23,869 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:00:00
+2025-04-19 20:18:23,884 [simulate_environment.py | 167] INFO: Get 22 unallocated order items, 6 ongoing order items, 41 completed order items
+2025-04-19 20:18:32,803 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.18, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.18, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.18, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.18, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.18 , Best individual in the population = [16.18, 0.0]
+Generation 2: Best Fitness = 16.18 , Best individual in the population = [16.18, 0.0]
+Generation 3: Best Fitness = 16.18 , Best individual in the population = [16.18, 0.0]
+Generation 4: Best Fitness = 16.18 , Best individual in the population = [16.18, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0949430034-2 d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+After GA, the cost of solution decrease from 16.18 to 16.18
+SUCCESS
+
+2025-04-19 20:18:32,820 [simulate_environment.py | 254] INFO: 2025-04-19 11:00:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:32,820 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:32,820 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:10:00, pre time: 2025-04-19 11:00:00
+2025-04-19 20:18:32,820 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:10:00
+2025-04-19 20:18:32,822 [simulate_environment.py | 167] INFO: Get 22 unallocated order items, 4 ongoing order items, 43 completed order items
+2025-04-19 20:18:41,551 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.0, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.0, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.0, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.0, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.0 , Best individual in the population = [16.0, 0.0]
+Generation 2: Best Fitness = 16.0 , Best individual in the population = [16.0, 0.0]
+Generation 3: Best Fitness = 16.0 , Best individual in the population = [16.0, 0.0]
+Generation 4: Best Fitness = 16.0 , Best individual in the population = [16.0, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+V_1:[p1_1045420039-1 d1_1045420039-1] V_2:[] V_3:[] V_4:[d2_0926560033-2 d1_0917000032-1 p12_0951190035-1 d12_0951190035-12] V_5:[d1_1001530036-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+After GA, the cost of solution decrease from 16.0 to 16.0
+SUCCESS
+
+2025-04-19 20:18:41,565 [simulate_environment.py | 254] INFO: 2025-04-19 11:10:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:41,565 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:41,566 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:20:00, pre time: 2025-04-19 11:10:00
+2025-04-19 20:18:41,566 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:20:00
+2025-04-19 20:18:41,572 [simulate_environment.py | 167] INFO: Get 24 unallocated order items, 4 ongoing order items, 44 completed order items
+2025-04-19 20:18:55,805 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.599999999999998, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.599999999999998, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.599999999999998, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.599999999999998, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.439999999999998 , Best individual in the population = [16.439999999999998, 0.0]
+Generation 2: Best Fitness = 16.439999999999998 , Best individual in the population = [16.439999999999998, 0.0]
+Generation 3: Best Fitness = 16.439999999999998 , Best individual in the population = [16.439999999999998, 0.0]
+Generation 4: Best Fitness = 16.439999999999998 , Best individual in the population = [16.439999999999998, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[] V_3:[p1_1117050041-1 p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d2_0926560033-2 d1_0917000032-1] V_5:[p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+V_1:[d1_1045420039-1] V_2:[] V_3:[p1_1117050041-1 p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d2_0926560033-2 d1_0917000032-1] V_5:[p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 p3_1057340040-1 d3_1057340040-3]
+After GA, the cost of solution decrease from 16.439999999999998 to 16.439999999999998
+SUCCESS
+
+2025-04-19 20:18:55,824 [simulate_environment.py | 254] INFO: 2025-04-19 11:20:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:18:55,825 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:18:55,825 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:30:00, pre time: 2025-04-19 11:20:00
+2025-04-19 20:18:55,825 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:30:00
+2025-04-19 20:18:55,838 [simulate_environment.py | 167] INFO: Get 25 unallocated order items, 5 ongoing order items, 44 completed order items
+2025-04-19 20:19:12,385 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.88, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.88, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.88, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.88, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.88 , Best individual in the population = [16.88, 0.0]
+Generation 2: Best Fitness = 16.88 , Best individual in the population = [16.88, 0.0]
+Generation 3: Best Fitness = 16.88 , Best individual in the population = [16.88, 0.0]
+Generation 4: Best Fitness = 16.88 , Best individual in the population = [16.88, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d2_0926560033-2 d1_0917000032-1] V_5:[p1_1128450044-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p1_1121000043-1 p3_1057340040-1 d3_1057340040-3 d1_1121000043-1]
+V_1:[d1_1045420039-1] V_2:[] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d2_0926560033-2 d1_0917000032-1] V_5:[p1_1128450044-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p1_1121000043-1 p3_1057340040-1 d3_1057340040-3 d1_1121000043-1]
+After GA, the cost of solution decrease from 16.88 to 16.88
+SUCCESS
+
+2025-04-19 20:19:12,400 [simulate_environment.py | 254] INFO: 2025-04-19 11:30:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:19:12,401 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:19:12,401 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:40:00, pre time: 2025-04-19 11:30:00
+2025-04-19 20:19:12,401 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:40:00
+2025-04-19 20:19:12,416 [simulate_environment.py | 167] INFO: Get 26 unallocated order items, 3 ongoing order items, 46 completed order items
+2025-04-19 20:19:31,228 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [16.58, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [16.58, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [16.58, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [16.58, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 16.58 , Best individual in the population = [16.58, 0.0]
+Generation 2: Best Fitness = 16.58 , Best individual in the population = [16.58, 0.0]
+Generation 3: Best Fitness = 16.58 , Best individual in the population = [16.58, 0.0]
+Generation 4: Best Fitness = 16.58 , Best individual in the population = [16.58, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d1_0917000032-1] V_5:[p1_1128450044-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p1_1135120045-1 p1_1121000043-1 p3_1057340040-1 d3_1057340040-3 d1_1121000043-1 d1_1135120045-1]
+V_1:[d1_1045420039-1] V_2:[] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d1_0917000032-1] V_5:[p1_1128450044-1 p2_1025520037-1 p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p1_1135120045-1 p1_1121000043-1 p3_1057340040-1 d3_1057340040-3 d1_1121000043-1 d1_1135120045-1]
+After GA, the cost of solution decrease from 16.58 to 16.58
+SUCCESS
+
+2025-04-19 20:19:31,242 [simulate_environment.py | 254] INFO: 2025-04-19 11:40:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:19:31,243 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:19:31,243 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 11:50:00, pre time: 2025-04-19 11:40:00
+2025-04-19 20:19:31,243 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 11:50:00
+2025-04-19 20:19:31,244 [simulate_environment.py | 167] INFO: Get 23 unallocated order items, 6 ongoing order items, 46 completed order items
+2025-04-19 20:19:41,718 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [11.739999999999998, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [11.739999999999998, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [11.739999999999998, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [11.739999999999998, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4.92 , Best individual in the population = [4.92, 0.0]
+Generation 2: Best Fitness = 4.64 , Best individual in the population = [4.64, 0.0]
+Generation 3: Best Fitness = 4.64 , Best individual in the population = [4.64, 0.0]
+Generation 4: Best Fitness = 4.64 , Best individual in the population = [4.64, 0.0]
+Generation 5: Best Fitness = 4.64 , Best individual in the population = [4.64, 0.0]
+Generation 6: Best Fitness = 4.64 , Best individual in the population = [4.64, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 d3_1057340040-3] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d1_0917000032-1] V_5:[p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p1_1135120045-1 p1_1121000043-1 d1_1121000043-1 d1_1135120045-1]
+V_1:[d1_1045420039-1] V_2:[] V_3:[p12_0951190035-1 d12_0951190035-12 d1_1117050041-1 p2_1119070042-1 d2_1119070042-2] V_4:[d1_0917000032-1 p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_5:[p4_1028340038-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 8.32 to 4.64
+SUCCESS
+
+2025-04-19 20:19:41,735 [simulate_environment.py | 254] INFO: 2025-04-19 11:50:00, Item 0951190035-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:19:41,736 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:19:41,736 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:00:00, pre time: 2025-04-19 11:50:00
+2025-04-19 20:19:41,736 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:00:00
+2025-04-19 20:19:41,744 [simulate_environment.py | 167] INFO: Get 13 unallocated order items, 18 ongoing order items, 46 completed order items
+2025-04-19 20:19:59,195 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 319.44444444444446 , Best individual in the population = [6.300000000000002, 319.44444444444446]
+Generation 2: Best Fitness = 319.44444444444446 , Best individual in the population = [6.300000000000002, 319.44444444444446]
+Generation 3: Best Fitness = 319.44444444444446 , Best individual in the population = [6.300000000000002, 319.44444444444446]
+Generation 4: Best Fitness = 319.44444444444446 , Best individual in the population = [6.300000000000002, 319.44444444444446]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 325.06444444444446 , Best individual in the population = [5.620000000000001, 319.44444444444446]
+Generation 2: Best Fitness = 325.06444444444446 , Best individual in the population = [5.620000000000001, 319.44444444444446]
+Generation 3: Best Fitness = 325.06444444444446 , Best individual in the population = [5.620000000000001, 319.44444444444446]
+Generation 4: Best Fitness = 325.06444444444446 , Best individual in the population = [5.620000000000001, 319.44444444444446]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[p2_1119070042-1 d2_1119070042-2] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[d1_0917000032-1 p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_5:[p4_1028340038-1 p1_1158410046-1 p1_1159370047-1 d1_1159370047-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 p1_1159370047-1 d1_1159370047-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[d1_0917000032-1] V_5:[p4_1028340038-1 p1_1158410046-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+After GA, the cost of solution decrease from 327.38444444444445 to 325.06444444444446
+SUCCESS
+
+2025-04-19 20:19:59,218 [simulate_environment.py | 254] INFO: 2025-04-19 12:00:00, Item 1028340038-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:19:59,219 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:19:59,219 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:10:00, pre time: 2025-04-19 12:00:00
+2025-04-19 20:19:59,219 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:10:00
+2025-04-19 20:19:59,228 [simulate_environment.py | 167] INFO: Get 13 unallocated order items, 18 ongoing order items, 46 completed order items
+2025-04-19 20:20:13,324 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 2: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 3: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 4: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 2: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 3: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 4: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 p1_1159370047-1 d1_1159370047-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[d1_0917000032-1] V_5:[p4_1028340038-1 p1_1158410046-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 p1_1159370047-1 d1_1159370047-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[d1_0917000032-1] V_5:[p4_1028340038-1 p1_1158410046-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+After GA, the cost of solution decrease from 322.4844444444445 to 322.4844444444445
+SUCCESS
+
+2025-04-19 20:20:13,339 [simulate_environment.py | 254] INFO: 2025-04-19 12:10:00, Item 1028340038-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:13,339 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:13,339 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:20:00, pre time: 2025-04-19 12:10:00
+2025-04-19 20:20:13,340 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:20:00
+2025-04-19 20:20:13,353 [simulate_environment.py | 167] INFO: Get 13 unallocated order items, 17 ongoing order items, 47 completed order items
+2025-04-19 20:20:26,705 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 319.44444444444446 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 2: Best Fitness = 319.44444444444446 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 3: Best Fitness = 319.44444444444446 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 4: Best Fitness = 319.44444444444446 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 322.40444444444444 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 2: Best Fitness = 322.40444444444444 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 3: Best Fitness = 322.40444444444444 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Generation 4: Best Fitness = 322.40444444444444 , Best individual in the population = [2.9600000000000004, 319.44444444444446]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 p1_1159370047-1 d1_1159370047-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[] V_5:[p4_1028340038-1 p1_1158410046-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+V_1:[d1_1045420039-1] V_2:[p3_1057340040-1 p1_1121000043-1 p1_1135120045-1 d1_1135120045-1 d1_1121000043-1 p1_1159370047-1 d1_1159370047-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[] V_5:[p4_1028340038-1 p1_1158410046-1 d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+After GA, the cost of solution decrease from 322.40444444444444 to 322.40444444444444
+SUCCESS
+
+2025-04-19 20:20:26,721 [simulate_environment.py | 254] INFO: 2025-04-19 12:20:00, Item 1028340038-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:26,722 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:26,722 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:30:00, pre time: 2025-04-19 12:20:00
+2025-04-19 20:20:26,722 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:30:00
+2025-04-19 20:20:26,728 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 27 ongoing order items, 47 completed order items
+2025-04-19 20:20:33,743 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 319.44444444444446 , Best individual in the population = [3.5, 319.44444444444446]
+Generation 2: Best Fitness = 319.44444444444446 , Best individual in the population = [3.5, 319.44444444444446]
+Generation 3: Best Fitness = 319.44444444444446 , Best individual in the population = [3.5, 319.44444444444446]
+Generation 4: Best Fitness = 319.44444444444446 , Best individual in the population = [3.5, 319.44444444444446]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 2: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 3: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 4: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3 p3_1221160048-1 p1_1159370047-1 d1_1159370047-1 d3_1221160048-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1 p2_1119070042-1 d2_1119070042-2]
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p2_1119070042-1 p3_1221160048-1 p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 323.02444444444444 to 322.4844444444445
+SUCCESS
+
+2025-04-19 20:20:33,760 [simulate_environment.py | 254] INFO: 2025-04-19 12:30:00, Item 1119070042-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:33,761 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:33,761 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:40:00, pre time: 2025-04-19 12:30:00
+2025-04-19 20:20:33,761 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:40:00
+2025-04-19 20:20:33,775 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 27 ongoing order items, 47 completed order items
+2025-04-19 20:20:38,776 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 2: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 3: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 4: Best Fitness = 319.44444444444446 , Best individual in the population = [3.04, 319.44444444444446]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 2: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 3: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Generation 4: Best Fitness = 322.4844444444445 , Best individual in the population = [3.04, 319.44444444444446]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p2_1119070042-1 p3_1221160048-1 p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p2_1119070042-1 p3_1221160048-1 p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 322.4844444444445 to 322.4844444444445
+SUCCESS
+
+2025-04-19 20:20:38,793 [simulate_environment.py | 254] INFO: 2025-04-19 12:40:00, Item 1119070042-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:38,794 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:38,794 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 12:50:00, pre time: 2025-04-19 12:40:00
+2025-04-19 20:20:38,794 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 12:50:00
+2025-04-19 20:20:38,806 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 32 ongoing order items, 47 completed order items
+2025-04-19 20:20:40,265 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d1_1158410046-1 d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 322.24444444444447 to 322.24444444444447
+SUCCESS
+
+2025-04-19 20:20:40,281 [simulate_environment.py | 254] INFO: 2025-04-19 12:50:00, Item 1159370047-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:40,282 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:40,282 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:00:00, pre time: 2025-04-19 12:50:00
+2025-04-19 20:20:40,282 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:00:00
+2025-04-19 20:20:40,291 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 31 ongoing order items, 48 completed order items
+2025-04-19 20:20:41,684 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 322.12444444444446 to 322.12444444444446
+SUCCESS
+
+2025-04-19 20:20:41,700 [simulate_environment.py | 254] INFO: 2025-04-19 13:00:00, Item 1159370047-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:41,701 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:41,701 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:10:00, pre time: 2025-04-19 13:00:00
+2025-04-19 20:20:41,702 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:10:00
+2025-04-19 20:20:41,713 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 31 ongoing order items, 48 completed order items
+2025-04-19 20:20:43,082 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d1_1135120045-1 d1_1121000043-1 d3_1057340040-3] V_3:[d12_0951190035-12 d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 320.38444444444445 to 320.38444444444445
+SUCCESS
+
+2025-04-19 20:20:43,086 [simulate_environment.py | 254] INFO: 2025-04-19 13:10:00, Item 1159370047-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:43,086 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:43,086 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:20:00, pre time: 2025-04-19 13:10:00
+2025-04-19 20:20:43,087 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:20:00
+2025-04-19 20:20:43,087 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 17 ongoing order items, 62 completed order items
+2025-04-19 20:20:44,565 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 0.9399999999999998 to 0.9399999999999998
+SUCCESS
+
+2025-04-19 20:20:44,580 [simulate_environment.py | 254] INFO: 2025-04-19 13:20:00, Item 1159370047-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:44,581 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:44,581 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:30:00, pre time: 2025-04-19 13:20:00
+2025-04-19 20:20:44,581 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:30:00
+2025-04-19 20:20:44,588 [simulate_environment.py | 167] INFO: Get 1 unallocated order items, 17 ongoing order items, 62 completed order items
+2025-04-19 20:20:46,028 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[p1_1159370047-1 d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[d4_1028340038-4 d2_1025520037-2 d1_1128450044-1]
+After GA, the cost of solution decrease from 0.8800000000000001 to 0.8800000000000001
+SUCCESS
+
+2025-04-19 20:20:46,032 [simulate_environment.py | 254] INFO: 2025-04-19 13:30:00, Item 1159370047-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:46,032 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:46,033 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:40:00, pre time: 2025-04-19 13:30:00
+2025-04-19 20:20:46,034 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:40:00
+2025-04-19 20:20:46,041 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 11 ongoing order items, 69 completed order items
+2025-04-19 20:20:47,594 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 d2_1332280049-2]
+V_1:[d1_1045420039-1] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 3.8599999999999994 to 3.8599999999999994
+SUCCESS
+
+2025-04-19 20:20:47,609 [simulate_environment.py | 254] INFO: 2025-04-19 13:40:00, Item 1332280049-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:47,609 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:47,609 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 13:50:00, pre time: 2025-04-19 13:40:00
+2025-04-19 20:20:47,609 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 13:50:00
+2025-04-19 20:20:47,619 [simulate_environment.py | 167] INFO: Get 2 unallocated order items, 10 ongoing order items, 70 completed order items
+2025-04-19 20:20:49,088 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 d2_1332280049-2]
+V_1:[] V_2:[d3_1057340040-3] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 3.8599999999999994 to 3.8599999999999994
+SUCCESS
+
+2025-04-19 20:20:49,103 [simulate_environment.py | 254] INFO: 2025-04-19 13:50:00, Item 1332280049-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:49,104 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:49,104 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:00:00, pre time: 2025-04-19 13:50:00
+2025-04-19 20:20:49,104 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:00:00
+2025-04-19 20:20:49,119 [simulate_environment.py | 167] INFO: Get 3 unallocated order items, 7 ongoing order items, 73 completed order items
+2025-04-19 20:20:50,598 [simulate_environment.py | 232] INFO: 
+Cant initialize the population
+
+
+V_1:[] V_2:[] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[] V_3:[d1_1117050041-1] V_4:[d1_1159370047-1 d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 3.44 to 3.44
+SUCCESS
+
+2025-04-19 20:20:50,615 [simulate_environment.py | 254] INFO: 2025-04-19 14:00:00, Item 1332280049-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:50,615 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:50,615 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:10:00, pre time: 2025-04-19 14:00:00
+2025-04-19 20:20:50,615 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:10:00
+2025-04-19 20:20:50,619 [simulate_environment.py | 167] INFO: Get 4 unallocated order items, 6 ongoing order items, 74 completed order items
+2025-04-19 20:20:53,777 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [2.1400000000000006, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 2.1400000000000006 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 2: Best Fitness = 2.1400000000000006 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 3: Best Fitness = 2.1400000000000006 , Best individual in the population = [2.1400000000000006, 0.0]
+Generation 4: Best Fitness = 2.1400000000000006 , Best individual in the population = [2.1400000000000006, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 2.1400000000000006 to 2.1400000000000006
+SUCCESS
+
+2025-04-19 20:20:53,799 [simulate_environment.py | 254] INFO: 2025-04-19 14:10:00, Item 1332280049-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:20:53,800 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:20:53,800 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:20:00, pre time: 2025-04-19 14:10:00
+2025-04-19 20:20:53,800 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:20:00
+2025-04-19 20:20:53,807 [simulate_environment.py | 167] INFO: Get 10 unallocated order items, 6 ongoing order items, 74 completed order items
+2025-04-19 20:21:03,533 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [15.66, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [15.66, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [15.66, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [15.66, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 15.66 , Best individual in the population = [15.66, 0.0]
+Generation 2: Best Fitness = 15.66 , Best individual in the population = [15.66, 0.0]
+Generation 3: Best Fitness = 15.66 , Best individual in the population = [15.66, 0.0]
+Generation 4: Best Fitness = 15.66 , Best individual in the population = [15.66, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 p4_1411250052-1 d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[p2_1332280049-1 p1_1359140050-1 p4_1411250052-1 d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 15.66 to 15.66
+SUCCESS
+
+2025-04-19 20:21:03,550 [simulate_environment.py | 254] INFO: 2025-04-19 14:20:00, Item 1332280049-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:21:03,550 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:21:03,550 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:30:00, pre time: 2025-04-19 14:20:00
+2025-04-19 20:21:03,551 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:30:00
+2025-04-19 20:21:03,556 [simulate_environment.py | 167] INFO: Get 5 unallocated order items, 13 ongoing order items, 74 completed order items
+2025-04-19 20:21:13,211 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.139999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 12.139999999999999 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 2: Best Fitness = 12.139999999999999 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 3: Best Fitness = 12.139999999999999 , Best individual in the population = [12.139999999999999, 0.0]
+Generation 4: Best Fitness = 12.139999999999999 , Best individual in the population = [12.139999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1117050041-1 p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1]
+After GA, the cost of solution decrease from 12.139999999999999 to 12.139999999999999
+SUCCESS
+
+2025-04-19 20:21:13,226 [simulate_environment.py | 254] INFO: 2025-04-19 14:30:00, Item 1404360051-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:21:13,226 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:21:13,226 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:40:00, pre time: 2025-04-19 14:30:00
+2025-04-19 20:21:13,226 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:40:00
+2025-04-19 20:21:13,228 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 12 ongoing order items, 75 completed order items
+2025-04-19 20:21:22,439 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 2: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 3: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 4: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[d3_1221160048-3 d2_1119070042-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1]
+After GA, the cost of solution decrease from 11.86 to 11.86
+SUCCESS
+
+2025-04-19 20:21:22,456 [simulate_environment.py | 254] INFO: 2025-04-19 14:40:00, Item 1404360051-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:21:22,456 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:21:22,457 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 14:50:00, pre time: 2025-04-19 14:40:00
+2025-04-19 20:21:22,457 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 14:50:00
+2025-04-19 20:21:22,462 [simulate_environment.py | 167] INFO: Get 6 unallocated order items, 7 ongoing order items, 80 completed order items
+2025-04-19 20:21:31,050 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [11.86, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 2: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 3: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Generation 4: Best Fitness = 11.86 , Best individual in the population = [11.86, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1]
+After GA, the cost of solution decrease from 11.86 to 11.86
+SUCCESS
+
+2025-04-19 20:21:31,059 [simulate_environment.py | 254] INFO: 2025-04-19 14:50:00, Item 1404360051-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:21:31,060 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:21:31,060 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:00:00, pre time: 2025-04-19 14:50:00
+2025-04-19 20:21:31,060 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:00:00
+2025-04-19 20:21:31,072 [simulate_environment.py | 167] INFO: Get 9 unallocated order items, 7 ongoing order items, 80 completed order items
+2025-04-19 20:21:46,889 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [12.399999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.399999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.399999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.399999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 12.299999999999999 , Best individual in the population = [12.299999999999999, 0.0]
+Generation 2: Best Fitness = 12.299999999999999 , Best individual in the population = [12.299999999999999, 0.0]
+Generation 3: Best Fitness = 12.299999999999999 , Best individual in the population = [12.299999999999999, 0.0]
+Generation 4: Best Fitness = 12.299999999999999 , Best individual in the population = [12.299999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[p2_1451190058-1 p1_1455050059-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1455050059-1 d2_1451190058-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[p1_1404360051-1 d1_1404360051-1] V_4:[p2_1451190058-1 p1_1455050059-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1455050059-1 d2_1451190058-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 12.299999999999999 to 12.299999999999999
+SUCCESS
+
+2025-04-19 20:21:46,909 [simulate_environment.py | 254] INFO: 2025-04-19 15:00:00, Item 1404360051-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:21:46,909 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:21:46,909 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:10:00, pre time: 2025-04-19 15:00:00
+2025-04-19 20:21:46,909 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:10:00
+2025-04-19 20:21:46,916 [simulate_environment.py | 167] INFO: Get 14 unallocated order items, 8 ongoing order items, 80 completed order items
+2025-04-19 20:22:02,799 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [14.24, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [14.24, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [14.24, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [14.24, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 2: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 3: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 4: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d4_1411250052-4 d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 14.139999999999997 to 14.139999999999997
+SUCCESS
+
+2025-04-19 20:22:02,823 [simulate_environment.py | 254] INFO: 2025-04-19 15:10:00, Item 1414350053-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:22:02,823 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:22:02,824 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:20:00, pre time: 2025-04-19 15:10:00
+2025-04-19 20:22:02,824 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:20:00
+2025-04-19 20:22:02,838 [simulate_environment.py | 167] INFO: Get 15 unallocated order items, 4 ongoing order items, 84 completed order items
+2025-04-19 20:22:23,283 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [14.139999999999997, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 2: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 3: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Generation 4: Best Fitness = 14.139999999999997 , Best individual in the population = [14.139999999999997, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 14.139999999999997 to 14.139999999999997
+SUCCESS
+
+2025-04-19 20:22:23,302 [simulate_environment.py | 254] INFO: 2025-04-19 15:20:00, Item 1414350053-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:22:23,303 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:22:23,303 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:30:00, pre time: 2025-04-19 15:20:00
+2025-04-19 20:22:23,303 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:30:00
+2025-04-19 20:22:23,306 [simulate_environment.py | 167] INFO: Get 15 unallocated order items, 4 ongoing order items, 84 completed order items
+2025-04-19 20:22:43,955 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [14.079999999999998, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 14.079999999999998 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 2: Best Fitness = 14.079999999999998 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 3: Best Fitness = 14.079999999999998 , Best individual in the population = [14.079999999999998, 0.0]
+Generation 4: Best Fitness = 14.079999999999998 , Best individual in the population = [14.079999999999998, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[p1_1414400054-1 p1_1414350053-1 d1_1414350053-1 d1_1414400054-1] V_3:[d1_1404360051-1 p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p2_1451190058-1 p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 14.079999999999998 to 14.079999999999998
+SUCCESS
+
+2025-04-19 20:22:43,958 [simulate_environment.py | 254] INFO: 2025-04-19 15:30:00, Item 1414350053-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:22:43,958 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:22:43,958 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:40:00, pre time: 2025-04-19 15:30:00
+2025-04-19 20:22:43,958 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:40:00
+2025-04-19 20:22:43,963 [simulate_environment.py | 167] INFO: Get 11 unallocated order items, 7 ongoing order items, 85 completed order items
+2025-04-19 20:22:52,946 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 2: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 3: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 4: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 13.819999999999999 to 13.819999999999999
+SUCCESS
+
+2025-04-19 20:22:52,963 [simulate_environment.py | 254] INFO: 2025-04-19 15:40:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:22:52,963 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:22:52,964 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 15:50:00, pre time: 2025-04-19 15:40:00
+2025-04-19 20:22:52,964 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 15:50:00
+2025-04-19 20:22:52,978 [simulate_environment.py | 167] INFO: Get 11 unallocated order items, 7 ongoing order items, 85 completed order items
+2025-04-19 20:23:01,946 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [13.819999999999999, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 2: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 3: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Generation 4: Best Fitness = 13.819999999999999 , Best individual in the population = [13.819999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d1_1359140050-1 d2_1332280049-2]
+After GA, the cost of solution decrease from 13.819999999999999 to 13.819999999999999
+SUCCESS
+
+2025-04-19 20:23:01,949 [simulate_environment.py | 254] INFO: 2025-04-19 15:50:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:23:01,950 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:23:01,950 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 16:00:00, pre time: 2025-04-19 15:50:00
+2025-04-19 20:23:01,950 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 16:00:00
+2025-04-19 20:23:01,962 [simulate_environment.py | 167] INFO: Get 16 unallocated order items, 6 ongoing order items, 86 completed order items
+2025-04-19 20:23:14,524 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 0.0 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [13.999999999999996, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 13.999999999999996 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 2: Best Fitness = 13.999999999999996 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 3: Best Fitness = 13.999999999999996 , Best individual in the population = [13.999999999999996, 0.0]
+Generation 4: Best Fitness = 13.999999999999996 , Best individual in the population = [13.999999999999996, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p5_1553370062-1 d5_1553370062-5] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p5_1553370062-1 d5_1553370062-5] V_3:[p6_1504280060-1 p1_1511540061-1 p1_1433340057-1 p1_1428120056-1 p1_1420180055-1 d1_1420180055-1 d1_1428120056-1 d1_1433340057-1 d1_1511540061-1 d6_1504280060-6] V_4:[p1_1455050059-1 d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2]
+After GA, the cost of solution decrease from 13.999999999999996 to 13.999999999999996
+SUCCESS
+
+2025-04-19 20:23:14,539 [simulate_environment.py | 254] INFO: 2025-04-19 16:00:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:23:14,540 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:23:14,540 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 16:10:00, pre time: 2025-04-19 16:00:00
+2025-04-19 20:23:14,540 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 16:10:00
+2025-04-19 20:23:14,541 [simulate_environment.py | 167] INFO: Get 12 unallocated order items, 13 ongoing order items, 86 completed order items
+2025-04-19 20:23:27,753 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 4133.333333333333 , Best individual in the population = [16.019999999999996, 4133.333333333333]
+Generation 2: Best Fitness = 4133.333333333333 , Best individual in the population = [16.019999999999996, 4133.333333333333]
+Generation 3: Best Fitness = 4133.333333333333 , Best individual in the population = [16.019999999999996, 4133.333333333333]
+Generation 4: Best Fitness = 4133.333333333333 , Best individual in the population = [16.019999999999996, 4133.333333333333]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 2: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 3: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 4: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 d3_1604350063-3 p5_1553370062-1 d5_1553370062-5] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2 p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+After GA, the cost of solution decrease from 4146.193333333333 to 4143.633333333333
+SUCCESS
+
+2025-04-19 20:23:27,776 [simulate_environment.py | 254] INFO: 2025-04-19 16:10:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:23:27,776 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:23:27,776 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 16:20:00, pre time: 2025-04-19 16:10:00
+2025-04-19 20:23:27,777 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 16:20:00
+2025-04-19 20:23:27,791 [simulate_environment.py | 167] INFO: Get 12 unallocated order items, 13 ongoing order items, 86 completed order items
+2025-04-19 20:23:40,688 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 4133.333333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 2: Best Fitness = 4133.333333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 3: Best Fitness = 4133.333333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 4: Best Fitness = 4133.333333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 2: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 3: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Generation 4: Best Fitness = 4143.633333333333 , Best individual in the population = [10.3, 4133.333333333333]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2 p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[d2_1332280049-2 p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+After GA, the cost of solution decrease from 4143.633333333333 to 4143.633333333333
+SUCCESS
+
+2025-04-19 20:23:40,699 [simulate_environment.py | 254] INFO: 2025-04-19 16:20:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:23:40,699 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:23:40,699 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 16:30:00, pre time: 2025-04-19 16:20:00
+2025-04-19 20:23:40,700 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 16:30:00
+2025-04-19 20:23:40,712 [simulate_environment.py | 167] INFO: Get 14 unallocated order items, 11 ongoing order items, 88 completed order items
+2025-04-19 20:23:54,264 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 4133.333333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 2: Best Fitness = 4133.333333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 3: Best Fitness = 4133.333333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 4: Best Fitness = 4133.333333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 4143.593333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 2: Best Fitness = 4143.593333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 3: Best Fitness = 4143.593333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Generation 4: Best Fitness = 4143.593333333333 , Best individual in the population = [10.26, 4133.333333333333]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 p2_1625240064-1 d2_1625240064-2 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 p2_1625240064-1 d2_1625240064-2 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[d1_1455050059-1 d2_1451190058-2] V_5:[p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+After GA, the cost of solution decrease from 4143.593333333333 to 4143.593333333333
+SUCCESS
+
+2025-04-19 20:23:54,281 [simulate_environment.py | 254] INFO: 2025-04-19 16:30:00, Item 1420180055-1: state = 1 < 2, we can not finish the simulation
+2025-04-19 20:23:54,281 [simulate_environment.py | 99] INFO: **************************************************
+2025-04-19 20:23:54,282 [simulate_environment.py | 103] INFO: cur time: 2025-04-19 16:40:00, pre time: 2025-04-19 16:30:00
+2025-04-19 20:23:54,282 [simulate_environment.py | 140] INFO: Start to update the input of 2025-04-19 16:40:00
+2025-04-19 20:23:54,291 [simulate_environment.py | 167] INFO: Get 14 unallocated order items, 8 ongoing order items, 91 completed order items
+2025-04-19 20:24:14,415 [simulate_environment.py | 232] INFO: 
+Generation 1: Best Fitness = 133.33333333333331 , Best individual in the population = [16.020000000000003, 133.33333333333331]
+Generation 2: Best Fitness = 0.0 , Best individual in the population = [12.600000000000001, 0.0]
+Generation 3: Best Fitness = 0.0 , Best individual in the population = [12.600000000000001, 0.0]
+Generation 4: Best Fitness = 0.0 , Best individual in the population = [12.600000000000001, 0.0]
+Generation 5: Best Fitness = 0.0 , Best individual in the population = [12.600000000000001, 0.0]
+Generation 6: Best Fitness = 0.0 , Best individual in the population = [12.600000000000001, 0.0]
+Stopping early due to lack of improvement in phase 1.
+Generation 1: Best Fitness = 7.279999999999999 , Best individual in the population = [7.279999999999999, 0.0]
+Generation 2: Best Fitness = 7.279999999999999 , Best individual in the population = [7.279999999999999, 0.0]
+Generation 3: Best Fitness = 7.279999999999999 , Best individual in the population = [7.279999999999999, 0.0]
+Generation 4: Best Fitness = 7.279999999999999 , Best individual in the population = [7.279999999999999, 0.0]
+Stopping early due to lack of improvement in phase 2.
+
+
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 p2_1625240064-1 d2_1625240064-2 d3_1604350063-3] V_3:[p1_1511540061-1 d1_1511540061-1 d6_1504280060-6] V_4:[] V_5:[p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+V_1:[] V_2:[d1_1414350053-1 d1_1414400054-1 p3_1604350063-1 p2_1625240064-1 d2_1625240064-2 d3_1604350063-3] V_3:[d6_1504280060-6] V_4:[] V_5:[p1_1420180055-1 p1_1428120056-1 p1_1433340057-1 d1_1433340057-1 d1_1428120056-1 d1_1420180055-1 p5_1553370062-1 d5_1553370062-5]
+After GA, the cost of solution decrease from 4143.413333333333 to 7.279999999999999
+SUCCESS
+
+2025-04-19 20:24:14,434 [checker.py      | 84] ERROR: Vehicle V_3, returned destination id is 9b40bfd6ca1c432498685540652a5a8b, however the origin destination id is 2445d4bd004c457d95957d6ecf77f759.
+2025-04-19 20:24:14,434 [checker.py      | 33] ERROR: Returned destination of Vehicle V_3 is not valid
+2025-04-19 20:24:14,434 [simulate_environment.py | 115] ERROR: Dispatch result is infeasible
+2025-04-19 20:24:14,440 [main.py         | 33] INFO: Score of instance_9: 9223372036854775807

@@ -39,7 +39,35 @@ class Chromosome:
         return child_solution
     
     def CCEA_mutate(self , is_limited = False , mode = 'total'):
-        CCEA_mutate_solution(self , is_limited , mode)
+        CCEA_mutate_solution(self  , is_limited , mode)
+        self.factorial_cost = self.evaluate_fitness()
+        self.fitness = 0
+        for c in self.factorial_cost:
+            self.fitness += c
+            
+    def random_mutate_operator(self , is_limited = False , mode = 'total' , is_better = 'Yes'):
+        i = 0
+        begin_time = time.time()
+        
+        while i < LS_MAX:
+            is_improve = False
+            selected_ls = random.choice(range(1 , 6))
+            if selected_ls == 1: 
+                inter_couple_exchange(self.solution , self.id_to_vehicle , self.route_map , is_limited , mode)
+            elif selected_ls == 2:
+                block_exchange(self.solution , self.id_to_vehicle , self.route_map , is_limited , mode)
+            elif selected_ls == 3:
+                block_relocate(self.solution , self.id_to_vehicle , self.route_map , is_limited , mode)
+            elif selected_ls == 4:
+                multi_pd_group_relocate(self.solution , self.id_to_vehicle , self.route_map , is_limited , mode)
+            elif selected_ls == 5:
+                improve_ci_path_by_2_opt(self.solution , self.id_to_vehicle , self.route_map , begin_time , is_limited , mode)
+            
+            if is_improve:
+                i += 1
+            else:
+                i += 0.5
+        
         self.factorial_cost = self.evaluate_fitness()
         self.fitness = 0
         for c in self.factorial_cost:
@@ -77,7 +105,7 @@ def GA_mutate_solution(indivisual : Chromosome , is_limited = False):
             break
     print(f"PDPairExchange:{n1}; BlockExchange:{n2}; BlockRelocate:{n3}; mPDG:{n4}; 2opt:{n5}; cost:{total_cost(indivisual.id_to_vehicle , indivisual.route_map , indivisual.solution ):.2f}" , file= sys.stderr  )
 
-def CCEA_mutate_solution (indivisual : Chromosome , is_limited = False , mode = 'total'):
+def CCEA_mutate_solution (indivisual : Chromosome, is_limited = False , mode = 'total'):
     n1 , n2 , n3 , n4, n5 = 0 ,0 ,0 ,0 ,0
     begin_time = time.time()
     i  = 1
@@ -89,7 +117,7 @@ def CCEA_mutate_solution (indivisual : Chromosome , is_limited = False , mode = 
         if block_exchange(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map , is_limited , mode):
             n2 +=1
             is_improved = True
-            
+        
         if block_relocate(indivisual.solution , indivisual.id_to_vehicle , indivisual.route_map , is_limited , mode):
             is_improved = True
             n3 +=1
